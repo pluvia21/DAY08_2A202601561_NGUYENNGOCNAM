@@ -82,8 +82,23 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     tokenized_query = query.lower().split()
     scores = _bm25_index.get_scores(tokenized_query)
 
+    if max(scores) <= 0:
+        query_terms = [term for term in tokenized_query if term]
+        fallback_scores = []
+        for doc in corpus:
+            content = doc["content"].lower()
+            score = 0.0
+            for term in query_terms:
+                if term in content:
+                    score += 1.0
+                else:
+                    shared = set(term) & set(content)
+                    score += len(shared) / max(len(set(term)), 1)
+            fallback_scores.append(score)
+        scores = fallback_scores
+
     ranked = sorted(
-        ((score, doc) for score, doc in zip(scores, corpus) if score > 0),
+        ((score, doc) for score, doc in zip(scores, corpus)),
         key=lambda pair: pair[0],
         reverse=True,
     )
