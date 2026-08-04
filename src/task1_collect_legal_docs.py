@@ -6,9 +6,9 @@ Hướng dẫn:
     2. Tải về và lưu vào data/landing/legal/
     3. Đặt tên file rõ ràng, không dấu, mô tả đúng nội dung.
 
-Gợi ý nguồn (ví dụ trang công khai RMIT Vietnam — rmit.edu.vn hoặc UET):
+Gợi ý nguồn (trang công khai Trường Đại học Công nghệ - ĐHQGHN, uet.vnu.edu.vn):
     - Học phí & phương thức thanh toán (Tuition Fees)
-    - Chính sách học bổng (Scholarship eligibility)
+    - Quy định học bổng khuyến khích học tập (Scholarship eligibility)
     - Quy định ký túc xá / hỗ trợ chỗ ở (Accommodation Services)
     - Hướng dẫn đăng ký học phần qua cổng thông tin sinh viên (Course Registration)
 """

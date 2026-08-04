@@ -239,9 +239,9 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
 
 if __name__ == "__main__":
     test_queries = [
-        "Học phí tại RMIT Vietnam là bao nhiêu?",
+        "Học phí tại UET (Đại học Công nghệ - ĐHQGHN) là bao nhiêu?",
         "Làm sao để đặt phòng học nhóm ở thư viện?",
-        "Sinh viên quốc tế có những học bổng nào?",
+        "Sinh viên UET có những học bổng nào?",
     ]
 
     for q in test_queries:
