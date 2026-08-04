@@ -42,11 +42,11 @@ with st.sidebar:
 
     st.subheader("💡 Câu hỏi gợi ý")
     suggestions = [
-        "Học phí tại RMIT Vietnam là bao nhiêu?",
+        "Học phí tại UET là bao nhiêu?",
         "Làm sao để đặt phòng học nhóm ở thư viện?",
-        "Điều kiện xin học bổng Academic Achievement?",
+        "Điều kiện xét học bổng khuyến khích học tập là gì?",
         "Dịch vụ hỗ trợ chỗ ở cho sinh viên như thế nào?",
-        "Cách đăng ký học phần qua myRMIT?",
+        "Cách đăng ký học phần qua cổng thông tin sinh viên UET?",
     ]
     for s in suggestions:
         if st.button(s, use_container_width=True, key=f"sug_{s[:20]}"):

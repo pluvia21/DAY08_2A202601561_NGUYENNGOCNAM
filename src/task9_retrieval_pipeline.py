@@ -108,9 +108,9 @@ def retrieve(
 
 if __name__ == "__main__":
     test_queries = [
-        "What is the tuition fee at RMIT Vietnam?",
+        "What is the tuition fee at UET (VNU University of Engineering and Technology)?",
         "How do I book a library study room?",
-        "What scholarships are available for international students?",
+        "What scholarships are available for UET students?",
         "xyzabc123nonsense",  # Query không có kết quả → test fallback
     ]
 
