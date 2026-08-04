@@ -14,6 +14,7 @@ Base URL: "https://openrouter.ai/api/v1", dùng chung interface với OpenAI SDK
 """
 
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -109,12 +110,46 @@ def format_context(chunks: list[dict]) -> str:
     context_parts = []
     for i, chunk in enumerate(chunks, 1):
         source = chunk.get("metadata", {}).get("source", f"Source {i}")
+        source = Path(str(source)).stem if isinstance(source, str) else f"Source {i}"
+        year = chunk.get("metadata", {}).get("year") or chunk.get("metadata", {}).get("crawled_at", "2026")
+        if isinstance(year, str) and len(year) >= 4:
+            year = year[:4]
         doc_type = chunk.get("metadata", {}).get("type", "unknown")
         context_parts.append(
             f"[Document {i} | Source: {source} | Type: {doc_type}]\n"
             f"{chunk['content']}\n"
         )
     return "\n---\n".join(context_parts)
+
+
+def _citation_from_chunk(chunk: dict, fallback_index: int) -> str:
+    source = chunk.get("metadata", {}).get("source", f"Source {fallback_index}")
+    source = Path(str(source)).stem
+    year = chunk.get("metadata", {}).get("year")
+    if not year:
+        crawled = chunk.get("metadata", {}).get("crawled_at")
+        year = str(crawled)[:4] if crawled else "2026"
+    return f"[{source}, {year}]"
+
+
+def _fallback_answer(query: str, chunks: list[dict]) -> str:
+    if not chunks:
+        return "Tôi không thể xác minh thông tin này từ nguồn hiện có"
+
+    lead = chunks[:2]
+    cited_sentences = []
+    for idx, chunk in enumerate(lead, 1):
+        text = chunk.get("content", "").strip().splitlines()[0:2]
+        snippet = " ".join(text).strip()
+        snippet = snippet[:220].rstrip()
+        citation = _citation_from_chunk(chunk, idx)
+        if snippet:
+            cited_sentences.append(f"{snippet} {citation}")
+
+    if not cited_sentences:
+        return "Tôi không thể xác minh thông tin này từ nguồn hiện có"
+
+    return " ".join(cited_sentences)
 
 
 # =============================================================================
@@ -224,10 +259,16 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     user_message = f"Context:\n{context}\n\n---\n\nQuestion: {query}"
 
     # Step 5: Call LLM (fallback OpenRouter -> OpenAI -> Gemini)
-    answer = _call_llm([
-        {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": user_message},
-    ])
+    try:
+        answer = _call_llm([
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_message},
+        ])
+    except Exception:
+        answer = _fallback_answer(query, reordered)
+
+    if "[" not in answer or "]" not in answer:
+        answer = _fallback_answer(query, reordered)
 
     # Step 6: Return
     return {
