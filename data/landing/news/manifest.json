@@ -1,46 +1,47 @@
 {
-  "total_articles": 5,
-  "crawled_at": "2026-08-04T10:28:53.570931",
-  "articles": [
-    {
-      "id": "uet-news-519702",
-      "title": "Triệu tập sinh viên tham dự sự kiện “UET JOB FAIR 2026” - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội",
-      "source_url": "https://uet.vnu.edu.vn/trieu-tap-sinh-vien-tham-du-su-kien-uet-job-fair-2026/",
-      "category": "event",
-      "file": "2026-08-04-triu-tp-sinh-vin-tham-d-s-kin-uet-job-fair-2026----4.json",
-      "status": "success"
-    },
-    {
-      "id": "uet-news-561172",
-      "title": "Hỗ trợ cho người học nhân dịp Tết Nguyên đán 2026 - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội",
-      "source_url": "https://uet.vnu.edu.vn/ho-tro-cho-nguoi-hoc-nhan-dip-tet-nguyen-dan-2026/",
-      "category": "student_support",
-      "file": "2026-08-04-h-tr-cho-ngi-hc-nhn-dp-tt-nguyn-n-2026---trng-i-hc-3.json",
-      "status": "success"
-    },
-    {
-      "id": "uet-news-248883",
-      "title": "Chương trình học bổng Đinh Thiện Lý năm học 2026 - 2027 dành cho sinh viên năm cuối và sinh viên năm cuối có hoàn cảnh đặc biệt - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội",
-      "source_url": "https://uet.vnu.edu.vn/chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2026-2027-danh-cho-sinh-vien-nam-cuoi-va-sinh-vien-nam-cuoi-co-hoan-canh-dac-biet/",
-      "category": "scholarship",
-      "file": "2026-08-04-chng-trnh-hc-bng-inh-thin-l-nm-hc-2026---2027-dnh--3.json",
-      "status": "success"
-    },
-    {
-      "id": "uet-news-815226",
-      "title": "Học bổng Vallet năm 2026 - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội",
-      "source_url": "https://uet.vnu.edu.vn/hoc-bong-vallet-nam-2026/",
-      "category": "scholarship",
-      "file": "2026-08-04-hc-bng-vallet-nm-2026---trng-i-hc-cng-ngh---i-hc-q-3.json",
-      "status": "success"
-    },
-    {
-      "id": "uet-news-287603",
-      "title": "Tôn chỉ hợp tác - Trường Đại học Công Nghệ - Đại học Quốc Gia Hà Nội",
-      "source_url": "https://uet.vnu.edu.vn/gioi-thieu-chung/",
-      "category": "event",
-      "file": "2026-08-04-tn-ch-hp-tc---trng-i-hc-cng-ngh---i-hc-quc-gia-h-n.json",
-      "status": "success"
-    }
-  ]
+    "total_articles":  5,
+    "crawled_at":  "2026-08-04T10:28:53.570931",
+    "articles":  [
+                     {
+                         "id":  "uet-news-519702",
+                         "title":  "Triá»‡u táº­p sinh viÃªn tham dá»± sá»± kiá»‡n â€œUET JOB FAIR 2026â€ - TrÆ°á»ng Äáº¡i há»c CÃ´ng Nghá»‡ - Äáº¡i há»c Quá»‘c Gia HÃ  Ná»™i",
+                         "source_url":  "https://uet.vnu.edu.vn/trieu-tap-sinh-vien-tham-du-su-kien-uet-job-fair-2026/",
+                         "category":  "event",
+                         "file":  "2026-08-04-triu-tp-sinh-vin-tham-d-s-kin-uet-job-fair-2026----4.json",
+                         "status":  "success"
+                     },
+                     {
+                         "id":  "uet-news-561172",
+                         "title":  "Há»— trá»£ cho ngÆ°á»i há»c nhÃ¢n dá»‹p Táº¿t NguyÃªn Ä‘Ã¡n 2026 - TrÆ°á»ng Äáº¡i há»c CÃ´ng Nghá»‡ - Äáº¡i há»c Quá»‘c Gia HÃ  Ná»™i",
+                         "source_url":  "https://uet.vnu.edu.vn/ho-tro-cho-nguoi-hoc-nhan-dip-tet-nguyen-dan-2026/",
+                         "category":  "student_support",
+                         "file":  "2026-08-04-h-tr-cho-ngi-hc-nhn-dp-tt-nguyn-n-2026---trng-i-hc-3.json",
+                         "status":  "success"
+                     },
+                     {
+                         "id":  "uet-news-248883",
+                         "title":  "ChÆ°Æ¡ng trÃ¬nh há»c bá»•ng Äinh Thiá»‡n LÃ½ nÄƒm há»c 2026 - 2027 dÃ nh cho sinh viÃªn nÄƒm cuá»‘i vÃ  sinh viÃªn nÄƒm cuá»‘i cÃ³ hoÃ n cáº£nh Ä‘áº·c biá»‡t - TrÆ°á»ng Äáº¡i há»c CÃ´ng Nghá»‡ - Äáº¡i há»c Quá»‘c Gia HÃ  Ná»™i",
+                         "source_url":  "https://uet.vnu.edu.vn/chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2026-2027-danh-cho-sinh-vien-nam-cuoi-va-sinh-vien-nam-cuoi-co-hoan-canh-dac-biet/",
+                         "category":  "scholarship",
+                         "file":  "2026-08-04-chng-trnh-hc-bng-inh-thin-l-nm-hc-2026---2027-dnh--3.json",
+                         "status":  "success"
+                     },
+                     {
+                         "id":  "uet-news-815226",
+                         "title":  "Há»c bá»•ng Vallet nÄƒm 2026 - TrÆ°á»ng Äáº¡i há»c CÃ´ng Nghá»‡ - Äáº¡i há»c Quá»‘c Gia HÃ  Ná»™i",
+                         "source_url":  "https://uet.vnu.edu.vn/hoc-bong-vallet-nam-2026/",
+                         "category":  "scholarship",
+                         "file":  "2026-08-04-hc-bng-vallet-nm-2026---trng-i-hc-cng-ngh---i-hc-q-3.json",
+                         "status":  "success"
+                     },
+                     {
+                         "id":  "uet-news-287603",
+                         "title":  "TÃ´n chá»‰ há»£p tÃ¡c - TrÆ°á»ng Äáº¡i há»c CÃ´ng Nghá»‡ - Äáº¡i há»c Quá»‘c Gia HÃ  Ná»™i",
+                         "source_url":  "https://uet.vnu.edu.vn/gioi-thieu-chung/",
+                         "category":  "event",
+                         "file":  "2026-08-04-tn-ch-hp-tc---trng-i-hc-cng-ngh---i-hc-quc-gia-h-n.json",
+                         "status":  "success"
+                     }
+                 ],
+    "date_crawled":  "2026-08-04T10:28:53.570931"
 }

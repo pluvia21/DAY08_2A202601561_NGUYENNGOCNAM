@@ -39,7 +39,7 @@ def convert_legal_docs():
             result = md.convert(str(filepath))
             output_path = output_dir / f"{filepath.stem}.md"
             output_path.write_text(result.text_content, encoding="utf-8")
-            print(f"  ✓ Saved: {output_path}")
+            print(f"  Saved: {output_path}")
 
 
 def convert_news_articles():
@@ -51,14 +51,14 @@ def convert_news_articles():
     for filepath in news_dir.iterdir():
         if filepath.suffix.lower() == ".json":
             print(f"Converting: {filepath.name}")
-            data = json.loads(filepath.read_text(encoding="utf-8"))
+            data = json.loads(filepath.read_text(encoding="utf-8-sig"))
             output_path = output_dir / f"{filepath.stem}.md"
             header = f"# {data.get('title', 'Unknown')}\n\n"
-            header += f"**Source:** {data.get('url', 'N/A')}\n"
-            header += f"**Crawled:** {data.get('date_crawled', 'N/A')}\n\n---\n\n"
-            content = data.get("content_markdown", "")
+            header += f"**Source:** {data.get('url', data.get('source_url', 'N/A'))}\n"
+            header += f"**Crawled:** {data.get('date_crawled', data.get('crawled_at', 'N/A'))}\n\n---\n\n"
+            content = data.get("content_markdown", data.get("content", ""))
             output_path.write_text(header + content, encoding="utf-8")
-            print(f"  ✓ Saved: {output_path}")
+            print(f"  Saved: {output_path}")
 
 
 def convert_all():
@@ -73,7 +73,7 @@ def convert_all():
     print("\n--- News Articles ---")
     convert_news_articles()
 
-    print("\n✓ Done! Output tại:", OUTPUT_DIR)
+    print("\nDone! Output at:", OUTPUT_DIR)
 
 
 if __name__ == "__main__":
