@@ -41,11 +41,11 @@ TEMPERATURE = 0.3
 # Model OpenRouter (":free" — không tính phí, giới hạn 50 req/ngày + 20 req/phút).
 # Đổi qua OPENROUTER_MODEL trong .env nếu slug hết hiệu lực (models ":free" đổi thường xuyên,
 # kiểm tra tại https://openrouter.ai/models?max_price=0)
-LLM_MODEL = os.getenv("OPENROUTER_MODEL", "meta-llama/llama-3.3-70b-instruct:free")
+LLM_MODEL = os.getenv("LLM_MODEL", "gemma-4-31b-it")
 
 # Model fallback khi OpenRouter bị 429 (hết quota free tier)
 OPENAI_FALLBACK_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-GEMINI_FALLBACK_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_FALLBACK_MODEL = os.getenv("GEMINI_MODEL", "gemma-4-26b-a4b-it")  # Gemini fallback nếu OpenRouter + OpenAI đều lỗi
 
 
 # =============================================================================
@@ -132,24 +132,77 @@ def _citation_from_chunk(chunk: dict, fallback_index: int) -> str:
     return f"[{source}, {year}]"
 
 
+def _clean_evidence_line(line: str) -> str:
+    line = " ".join(line.replace("|", " ").split())
+    if not line:
+        return ""
+    noisy_prefixes = (
+        "đại học quốc gia",
+        "trường đại học",
+        "cộng hòa xã hội",
+        "độc lập",
+        "số:",
+        "source:",
+        "document",
+    )
+    lowered = line.lower()
+    if len(line) < 35 or lowered.startswith(noisy_prefixes):
+        return ""
+    letters = [char for char in line if char.isalpha()]
+    if letters and sum(char.isupper() for char in letters) / len(letters) > 0.75:
+        return ""
+    if lowered.startswith(("chương ", "điều ")):
+        return ""
+    return line[:260].rstrip(" ,;:-")
+
+
+def _select_evidence(query: str, chunks: list[dict], max_items: int = 3) -> list[tuple[str, str]]:
+    query_terms = {token.lower() for token in query.split() if len(token) >= 3}
+    evidence: list[tuple[int, str, str]] = []
+
+    for idx, chunk in enumerate(chunks, 1):
+        citation = _citation_from_chunk(chunk, idx)
+        for raw_line in chunk.get("content", "").splitlines():
+            line = _clean_evidence_line(raw_line)
+            if not line:
+                continue
+            line_terms = set(line.lower().split())
+            overlap = len(query_terms & line_terms)
+            keyword_bonus = sum(
+                2 for keyword in ("học phí", "học bổng", "ký túc", "thư viện", "đăng ký", "sinh viên")
+                if keyword in line.lower() and keyword in query.lower()
+            )
+            score = overlap + keyword_bonus
+            evidence.append((score, line, citation))
+
+    evidence.sort(key=lambda item: item[0], reverse=True)
+    selected: list[tuple[str, str]] = []
+    seen_lines: set[str] = set()
+    for _, line, citation in evidence:
+        signature = line[:90].lower()
+        if signature in seen_lines:
+            continue
+        selected.append((line, citation))
+        seen_lines.add(signature)
+        if len(selected) >= max_items:
+            break
+    return selected
+
+
 def _fallback_answer(query: str, chunks: list[dict]) -> str:
     if not chunks:
         return "Tôi không thể xác minh thông tin này từ nguồn hiện có"
 
-    lead = chunks[:2]
-    cited_sentences = []
-    for idx, chunk in enumerate(lead, 1):
-        text = chunk.get("content", "").strip().splitlines()[0:2]
-        snippet = " ".join(text).strip()
-        snippet = snippet[:220].rstrip()
-        citation = _citation_from_chunk(chunk, idx)
-        if snippet:
-            cited_sentences.append(f"{snippet} {citation}")
-
-    if not cited_sentences:
+    evidence = _select_evidence(query, chunks)
+    if not evidence:
         return "Tôi không thể xác minh thông tin này từ nguồn hiện có"
 
-    return " ".join(cited_sentences)
+    bullets = [f"- {line} {citation}" for line, citation in evidence]
+    return (
+        "Dựa trên các tài liệu truy xuất được, câu trả lời như sau:\n\n"
+        + "\n".join(bullets)
+        + "\n\nMình chỉ kết luận theo các nguồn đã truy xuất ở trên."
+    )
 
 
 # =============================================================================

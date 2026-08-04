@@ -1,17 +1,77 @@
-[
+﻿[
   {
-    "question": "Học phí hàng năm của chương trình Business tại RMIT Vietnam là bao nhiêu?",
-    "expected_answer": "Khoảng 375.840.000 VND mỗi năm (tùy chương trình cụ thể).",
-    "expected_context": "Trang Tuition Fees, mục Undergraduate Programs"
+    "question": "Hoc phi tai UET la bao nhieu?",
+    "expected_answer": "Hoc phi duoc quy dinh theo so tin chi va tung chuong trinh dao tao.",
+    "expected_context": "hoc-phi-uet"
   },
   {
-    "question": "Học phí được thanh toán theo hình thức nào?",
-    "expected_answer": "Thanh toán theo từng học kỳ, tính theo từng môn học đã đăng ký.",
-    "expected_context": "Trang Tuition Fees, mục Payment Structure"
+    "question": "Sinh vien co the xem quy dinh hoc phi o dau?",
+    "expected_answer": "Trong tai lieu quy dinh hoc phi va so tay hoc vu cua nha truong.",
+    "expected_context": "quy-dinh-hoc-phi-uet"
   },
   {
-    "question": "Trường có cung cấp ký túc xá trong khuôn viên không?",
-    "expected_answer": "Không — trường không cung cấp chỗ ở trong khuôn viên, nhưng có đội ngũ hỗ trợ sinh viên tìm chỗ ở gần trường.",
-    "expected_context": "Trang Accommodation Services"
+    "question": "Dang ky hoc phan nhu the nao?",
+    "expected_answer": "Sinh vien dang ky hoc phan qua he thong theo lich hoc ky va huong dan cua phong dao tao.",
+    "expected_context": "dang-ky-hoc-phan-uet"
+  },
+  {
+    "question": "Neu dang ky hoc lai hoac hoc cai thien diem thi can lam gi?",
+    "expected_answer": "Can xem cac muc ve hoc lai va hoc cai thien diem trong tai lieu dang ky hoc phan.",
+    "expected_context": "dang-ky-hoc-phan-uet"
+  },
+  {
+    "question": "Hoc bong UET co nhung dieu kien nao?",
+    "expected_answer": "Sinh vien can dap ung tieu chuan hoc tap va cac dieu kien xet hoc bong theo thong bao.",
+    "expected_context": "hoc-bong-uet"
+  },
+  {
+    "question": "Thanh phan ho so xin hoc bong gom gi?",
+    "expected_answer": "Thuong gom don dang ky, bang diem, bai luan, thu gioi thieu va minh chung thanh tich.",
+    "expected_context": "hoc-bong-uet"
+  },
+  {
+    "question": "Ky tuc xa UET co quy dinh gi?",
+    "expected_answer": "Sinh vien can xem quy dinh ve cho o, ho so va cac dieu kien su dung ky tuc xa.",
+    "expected_context": "ktx-uet"
+  },
+  {
+    "question": "Sinh vien co duoc ho tro cho o o gan truong khong?",
+    "expected_answer": "Tai lieu neu co cac hinh thuc ho tro cho o va huong dan lien he phu hop.",
+    "expected_context": "ktx-uet"
+  },
+  {
+    "question": "UET co thong bao gi ve hoc bong Vallet?",
+    "expected_answer": "Co thong bao xet chon hoc bong Vallet danh cho sinh vien UET.",
+    "expected_context": "hoc bong vallet"
+  },
+  {
+    "question": "Thong bao ho tro Tet Nguyen Dan noi gi?",
+    "expected_answer": "Co thong bao ho tro cho nguoi hoc nhan dip Tet Nguyen Dan.",
+    "expected_context": "Tet Nguyen Dan"
+  },
+  {
+    "question": "UET Job Fair 2026 duoc thong bao nhu the nao?",
+    "expected_answer": "Co thong bao trieu tap sinh vien tham du su kien UET Job Fair 2026.",
+    "expected_context": "UET Job Fair 2026"
+  },
+  {
+    "question": "Tin tuc ve hop tac tai UET noi gi?",
+    "expected_answer": "Co thong bao ve tin tuc hop tac giua truong va doi tac ngoai truong.",
+    "expected_context": "hop tac"
+  },
+  {
+    "question": "Lam sao tra hoc phi?",
+    "expected_answer": "Sinh vien can tra hoc phi dung han va theo huong dan thanh toan cua nha truong.",
+    "expected_context": "hoc-phi-uet"
+  },
+  {
+    "question": "Sinh vien can xem thong tin dang ky hoc phan o dau?",
+    "expected_answer": "Thong tin dang ky hoc phan nam trong so tay hoc vu va huong dan cua truong.",
+    "expected_context": "dang-ky-hoc-phan-uet"
+  },
+  {
+    "question": "Tai lieu nao noi ve hoc bong va hoc phi?",
+    "expected_answer": "Hai nhom tai lieu chinh la hoc bong va hoc phi trong thu muc legal.",
+    "expected_context": "hoc bong hoc phi"
   }
 ]
