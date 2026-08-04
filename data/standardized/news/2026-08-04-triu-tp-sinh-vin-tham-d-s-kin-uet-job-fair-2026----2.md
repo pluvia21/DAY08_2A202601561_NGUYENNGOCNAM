@@ -1,70 +1,46 @@
-# Triá»‡u táº­p sinh viÃªn tham dá»± sá»± kiá»‡n â€œUET JOB FAIR 2026â€ - TrÆ°á»ng Äáº¡i há»c CÃ´ng Nghá»‡ - Äáº¡i há»c Quá»‘c Gia HÃ  Ná»™i
+# Triệu tập sinh viên tham dự sự kiện UET JOB FAIR 2026
 
-**Source:** https://uet.vnu.edu.vn/trieu-tap-sinh-vien-tham-du-su-kien-uet-job-fair-2026/
-**Crawled:** 2026-08-04T10:26:31.176290
+- **Ngày đăng:** 16/03/2026
+- **Chuyên mục:** Thông báo người học
 
----
+## Tổng quan
 
-![](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/06/i2vKYYI1-GetArticleImage-1.jpg)
+Trường Đại học Công nghệ – ĐHQGHN tổ chức **Ngày hội việc làm – Kết nối để thành công (UET JOB FAIR 2026)** nhằm kết nối sinh viên với doanh nghiệp, tạo cơ hội tìm kiếm việc làm, thực tập và định hướng nghề nghiệp. Chương trình có sự tham gia của **61 doanh nghiệp** thuộc nhiều lĩnh vực công nghệ và kỹ thuật. :contentReference[oaicite:0]{index=0}
 
-# Triá»‡u táº­p sinh viÃªn tham dá»± sá»± kiá»‡n â€œUET JOB FAIR 2026â€
+## Thời gian và địa điểm
 
-* [Tuyáº¿t Nga](https://uet.vnu.edu.vn/author/tuyetnga/)
-* ThÃ¡ng 3 16, 2026
-* [ThÃ´ng bÃ¡o ngÆ°á»i há»c](https://uet.vnu.edu.vn/category/sinh-vien/thong-bao-nguoi-hoc/)
-* LÆ°á»£t xem: 2.663
+- **Thời gian:** 08:00 – 17:00, Thứ Bảy, ngày **21/03/2026**
+- **Địa điểm:** Quảng trường ĐHQGHN (144 Xuân Thủy) và khu vực sân nhà E3. :contentReference[oaicite:1]{index=1}
 
+## Đối tượng tham gia
 
-Thá»±c hiá»‡n káº¿ hoáº¡ch nÄƒm há»c 2025-2026, theo nhu cáº§u cá»§a cÃ¡c nhÃ  tuyá»ƒn dá»¥ng vÃ  mong muá»‘n cá»§a cÃ¡c báº¡n sinh viÃªn, TrÆ°á»ng ÄHCN tá»• chá»©c chÆ°Æ¡ng trÃ¬nh â€œNgÃ y há»™i viá»‡c lÃ m â€“ Káº¿t ná»‘i Ä‘á»ƒ thÃ nh cÃ´ng nÄƒm 2026â€ mang tÃªn â€œUET JOB FAIR 2026â€ vá»›i sá»± tham dá»± cá»§a 61 doanh nghiá»‡p vá» táº¥t cáº£ cÃ¡c lÄ©nh vá»±c, ngÃ nh nghá», cung cáº¥p cho sinh viÃªn nhiá»u cÆ¡ há»™i viá»‡c lÃ m, thá»±c táº­p, tÃ¬m hiá»ƒu vá» cÃ¡c doanh nghiá»‡p liÃªn quan Ä‘áº¿n ngÃ nh mÃ  mÃ¬nh Ä‘ang theo há»c, Ä‘Æ°á»£c nghe cÃ¡c chuyÃªn gia tÆ° váº¥n, Ä‘á»‹nh hÆ°á»›ng nghá» nghiá»‡p, cÃ¡c lÄ©nh vá»±c cÃ´ng nghá»‡ Ä‘ang phÃ¡t triá»ƒn vÃ  Ä‘Æ°á»£c á»©ng dá»¥ng hiá»‡n nayâ€¦
+- Sinh viên các khóa **K67, K68, K69, K70** không có lịch học hoặc lịch thi trong ngày 21/03/2026 phải tham gia đầy đủ.
+- Sinh viên có lịch học hoặc lịch thi vẫn thực hiện theo thời khóa biểu và chủ động tham gia sự kiện trong thời gian trống.
+- Sinh viên có lịch thi bên ngoài (IELTS, TOEIC hoặc các chứng chỉ khác...) không thể tham dự cần báo lớp trưởng và gửi minh chứng về Phòng Công tác Sinh viên trước **20/03/2026**. :contentReference[oaicite:2]{index=2}
 
-**Thá»i gian:** Cáº£ ngÃ y thá»© Báº£y, ngÃ y 21/3/2026 (tá»« 8h00 Ä‘áº¿n 17h00)
+## Nội dung chương trình
 
-**Äá»‹a Ä‘iá»ƒm:** Khu vá»±c sÃ¢n quáº£ng trÆ°á»ng ÄHQGHN (144 XuÃ¢n Thuá»·) vÃ  sÃ¢n nhÃ  E3
+Sinh viên có cơ hội:
 
-ÄÃ¢y lÃ  sá»± kiá»‡n chÃ­nh trá»‹ quan trá»ng, lÃ  vá»‹ tháº¿ cá»§a TrÆ°á»ng Äáº¡i há»c CÃ´ng nghá»‡, cÅ©ng nhÆ° Ä‘á»ƒ NgÃ y há»™i viá»‡c lÃ m diá»…n ra thÃ nh cÃ´ng tá»‘t Ä‘áº¹p, NhÃ  trÆ°á»ng thÃ´ng bÃ¡o triá»‡u táº­p cÃ¡c sinh viÃªn tham gia sá»± kiá»‡n nÃ³i trÃªn nhÆ° sau:
+- Tìm kiếm việc làm và thực tập.
+- Gặp gỡ trực tiếp các doanh nghiệp tuyển dụng.
+- Tìm hiểu yêu cầu tuyển dụng và xu hướng công nghệ.
+- Tham gia tư vấn, định hướng nghề nghiệp từ chuyên gia.
+- Kết nối với doanh nghiệp trong lĩnh vực đang theo học. :contentReference[oaicite:3]{index=3}
 
-1. ToÃ n bá»™ sinh viÃªn K67, K68, K69, K70 khÃ´ng cÃ³ lá»‹ch há»c/thi ngÃ y 21/3/2026 tham gia toÃ n bá»™ sá»± kiá»‡n.
-2. CÃ¡c sinh viÃªn K67, K68, K69, K70 cÃ³ lá»‹ch há»c/thi ngÃ y 21/3/2026 thá»±c hiá»‡n lá»‹ch há»c/thi bÃ¬nh thÆ°á»ng theo thá»i khÃ³a biá»ƒu, tuy nhiÃªn sáº¯p xáº¿p khung thá»i gian trá»‘ng há»£p lÃ½ Ä‘á»ƒ Ä‘áº¿n tham gia sá»± kiá»‡n.
-3. CÃ¡c sinh viÃªn cÃ³ lá»‹ch thi bÃªn ngoÃ i (nhÆ° thi chá»©ng chá»‰ tiáº¿ng Anh, cÃ¡c chá»©ng chá»‰ khÃ¡câ€¦.) khÃ´ng thá»ƒ tham gia Ä‘Æ°á»£c sá»± kiá»‡n cáº§n thÃ´ng bÃ¡o cho lá»›p trÆ°á»Ÿng tá»•ng há»£p vÃ  gá»­i danh sÃ¡ch kÃ¨m minh chá»©ng vá» PhÃ²ng CTSV trÆ°á»›c ngÃ y 20/3/2026.
+## Đăng ký tham gia
 
-CÃ¡c sinh viÃªn tham gia sá»± kiá»‡n cáº§n thá»±c hiá»‡n Ä‘Äƒng kÃ½ trÆ°á»›c vá»›i BTC theo Ä‘Æ°á»ng link: <https://vieclam.uet.vnu.edu.vn/ngay-hoi-viec-lam-truong-dai-hoc-cong-nghe-uet-job-fair-2026-ht058595484436> Ä‘á»ƒ nháº­n Ä‘Æ°á»£c mÃ£ QR code phá»¥c vá»¥ cho viá»‡c checkin vÃ  Ä‘iá»ƒm danh.
+Sinh viên cần đăng ký trước để nhận **mã QR** phục vụ:
 
-Äá» nghá»‹ sinh viÃªn tham dá»± NgÃ y há»™i Ä‘i Ä‘áº§y Ä‘á»§, Ä‘Ãºng giá» (cÃ³ máº·t trÆ°á»›c 15 phÃºt). NhÃ  trÆ°á»ng sáº½ tiáº¿n hÃ nh Ä‘iá»ƒm danh sinh viÃªn Ä‘Æ°á»£c triá»‡u táº­p báº±ng hÃ¬nh thá»©c check-in táº¡i bÃ n lá»… tÃ¢n cá»§a BTC, xem sÆ¡ Ä‘á»“ chi tiáº¿t gian tráº¡i cá»§a 61 doanh nghiá»‡p táº¡i: <https://drive.google.com/drive/folders/1Ly44fkAClIxiJkoTLmBT5cqVrrMk8JzB>
+- Check-in.
+- Điểm danh tham dự chương trình. :contentReference[oaicite:4]{index=4}
 
-TrÃ¢n trá»ng thÃ´ng bÃ¡o!
+## Lưu ý
 
-[![hÃ¬nh Ä‘áº¡i diá»‡n tÃ¡c giáº£](https://secure.gravatar.com/avatar/765ff14c5b7a452e1ee32e3f4d14833f4f69dce29b44f76b11bc3dd0930520a3?s=110&d=mm&r=g)](https://uet.vnu.edu.vn/author/tuyetnga/)
+- Có mặt trước giờ khai mạc **15 phút**.
+- Nhà trường điểm danh bằng hình thức **check-in tại bàn lễ tân**.
+- Sinh viên nên xem trước sơ đồ gian hàng của các doanh nghiệp để thuận tiện tham quan và ứng tuyển. :contentReference[oaicite:5]{index=5}
 
-[Tuyáº¿t Nga](https://uet.vnu.edu.vn/author/tuyetnga/)
+## Từ khóa
 
-[BÃ i trÆ°á»›c](https://uet.vnu.edu.vn/truong-dh-cong-nghe-chia-se-kinh-nghiem-xay-dung-he-sinh-thai-dai-hoc-so-voi-truong-dh-duoc-ha-noi/)
-
-##### [TrÆ°á»ng ÄH CÃ´ng nghá»‡ chia sáº» kinh nghiá»‡m xÃ¢y dá»±ng há»‡ sinh thÃ¡i Ä‘áº¡i há»c sá»‘ vá»›i TrÆ°á»ng ÄH DÆ°á»£c HÃ  Ná»™i](https://uet.vnu.edu.vn/truong-dh-cong-nghe-chia-se-kinh-nghiem-xay-dung-he-sinh-thai-dai-hoc-so-voi-truong-dh-duoc-ha-noi/)
-
-16/03/2026
-
-[BÃ i tiáº¿p theo](https://uet.vnu.edu.vn/huong-den-uet-job-fair-2026-cung-apply-cung-phong-van/)
-
-##### [HÆ°á»›ng Ä‘áº¿n UET Job Fair 2026: â€œCÃ¹ng apply - CÃ¹ng phá»ng váº¥nâ€](https://uet.vnu.edu.vn/huong-den-uet-job-fair-2026-cung-apply-cung-phong-van/)
-
-16/03/2026
-
-### BÃ i viáº¿t liÃªn quan
-
-[![GetArticleImage-1](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg)](https://uet.vnu.edu.vn/bo-luan-an-tien-si-cua-ncs-tran-vu-hop/ "Bá»™ luáº­n Ã¡n tiáº¿n sÄ© cá»§a NCS Tráº§n VÅ© Há»£p") 
-
-##### [Bá»™ luáº­n Ã¡n tiáº¿n sÄ© cá»§a NCS Tráº§n VÅ© Há»£p](https://uet.vnu.edu.vn/bo-luan-an-tien-si-cua-ncs-tran-vu-hop/)
-
-30/07/2026
-
-[![GetArticleImage-1](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg)](https://uet.vnu.edu.vn/danh-gia-luan-an-tien-sy-cua-ncs-truong-xuan-hung/ "ÄÃ¡nh giÃ¡ luáº­n Ã¡n Tiáº¿n sá»¹ cá»§a NCS TrÆ°Æ¡ng XuÃ¢n HÃ¹ng") 
-
-##### [ÄÃ¡nh giÃ¡ luáº­n Ã¡n Tiáº¿n sá»¹ cá»§a NCS TrÆ°Æ¡ng XuÃ¢n HÃ¹ng](https://uet.vnu.edu.vn/danh-gia-luan-an-tien-sy-cua-ncs-truong-xuan-hung/)
-
-30/07/2026
-
-[![GetArticleImage-1](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg)](https://uet.vnu.edu.vn/chuong-trinh-thuc-tap-tai-trung-quoc-danh-cho-nghien-cuu-sinh-tien-si-do-quy-sunwah-tai-tro-nam-2027/ "ChÆ°Æ¡ng trÃ¬nh thá»±c táº­p táº¡i Trung Quá»‘c dÃ nh cho nghiÃªn cá»©u sinh tiáº¿n sÄ© do Quá»¹ Sunwah tÃ i trá»£ nÄƒm 2027") 
-
-##### [ChÆ°Æ¡ng trÃ¬nh thá»±c táº­p táº¡i Trung Quá»‘c dÃ nh cho nghiÃªn cá»©u sinh tiáº¿n sÄ© do Quá»¹ Sunwah tÃ i trá»£ nÄƒm 2027](https://uet.vnu.edu.vn/chuong-trinh-thuc-tap-tai-trung-quoc-danh-cho-nghien-cuu-sinh-tien-si-do-quy-sunwah-tai-tro-nam-2027/)
-
-28/07/2026
+UET Job Fair 2026, ngày hội việc làm, tuyển dụng sinh viên, thực tập, doanh nghiệp, UET, ĐHQGHN.

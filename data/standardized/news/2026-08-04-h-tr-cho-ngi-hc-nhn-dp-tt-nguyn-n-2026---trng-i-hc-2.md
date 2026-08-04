@@ -1,74 +1,74 @@
-# Há»— trá»£ cho ngÆ°á»i há»c nhÃ¢n dá»‹p Táº¿t NguyÃªn Ä‘Ã¡n 2026 - TrÆ°á»ng Äáº¡i há»c CÃ´ng Nghá»‡ - Äáº¡i há»c Quá»‘c Gia HÃ  Ná»™i
+# Hỗ trợ cho người học nhân dịp Tết Nguyên đán 2026
 
-**Source:** https://uet.vnu.edu.vn/ho-tro-cho-nguoi-hoc-nhan-dip-tet-nguyen-dan-2026/
-**Crawled:** 2026-08-04T10:28:07.875263
+- **Tác giả:** Tuyết Nga
+- **Ngày đăng:** 30/01/2026
+- **Chuyên mục:** Chế độ chính sách, Thông báo người học
+- **Lượt xem:** 412
 
 ---
 
-![](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/02/GetArticleImage-1.jpg)
+## Quyết định hỗ trợ người học nhân dịp Tết Nguyên đán 2026
 
-# Há»— trá»£ cho ngÆ°á»i há»c nhÃ¢n dá»‹p Táº¿t NguyÃªn Ä‘Ã¡n 2026
+Căn cứ:
 
-* [Tuyáº¿t Nga](https://uet.vnu.edu.vn/author/tuyetnga/)
-* ThÃ¡ng 1 30, 2026
-* [Cháº¿ Ä‘á»™ chÃ­nh sÃ¡ch](https://uet.vnu.edu.vn/category/sinh-vien/che-do-chinh-sach/), [ThÃ´ng bÃ¡o ngÆ°á»i há»c](https://uet.vnu.edu.vn/category/sinh-vien/thong-bao-nguoi-hoc/)
-* LÆ°á»£t xem: 442
+- Quyết định số **3568/QĐ-ĐHQGHN** ngày 08/10/2014 của Giám đốc Đại học Quốc gia Hà Nội về tổ chức và hoạt động của các đơn vị thành viên và đơn vị trực thuộc ĐHQGHN.
+- Nghị quyết số **985/NQ-HĐT** ngày 08/11/2022 của Hội đồng trường Trường Đại học Công nghệ về việc ban hành Quy chế tạm thời về tổ chức và hoạt động của Trường Đại học Công nghệ.
+- Tờ trình ngày **22/01/2026** của Phòng Công tác Sinh viên và Phòng Kế hoạch Tài chính về việc xin kinh phí hỗ trợ sinh viên có hoàn cảnh khó khăn, sinh viên và học viên người nước ngoài nhân dịp Tết Nguyên đán 2026.
+- Đề nghị của Trưởng phòng Công tác Sinh viên.
 
+---
 
-*CÄƒn cá»© Quyáº¿t Ä‘á»‹nh sá»‘ 3568/QÄ-ÄHQGHN ngÃ y 08 thÃ¡ng 10 nÄƒm 2014 cá»§a GiÃ¡m Ä‘á»‘c Äáº¡i há»c Quá»‘c gia HÃ  Ná»™i, quy Ä‘á»‹nh vá» tá»• chá»©c vÃ  hoáº¡t Ä‘á»™ng cá»§a cÃ¡c Ä‘Æ¡n vá»‹ thÃ nh viÃªn vÃ  Ä‘Æ¡n vá»‹ trá»±c thuá»™c ÄHQGHN;*
+## HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC CÔNG NGHỆ QUYẾT ĐỊNH
 
-*CÄƒn cá»© Nghá»‹ quyáº¿t sá»‘ 985/NQ-HÄT ngÃ y 08 thÃ¡ng 11 nÄƒm 2022 cá»§a Há»™i Ä‘á»“ng trÆ°á»ng TrÆ°á»ng Äáº¡i há»c CÃ´ng nghá»‡, vá» viá»‡c ban hÃ nh Quy cháº¿ táº¡m thá»iÂ  vá» tá»• chá»©c vÃ  hoáº¡t Ä‘á»™ng cá»§a TrÆ°á»ng Äáº¡i há»c CÃ´ng nghá»‡;*
+### Điều 1
 
-*CÄƒn cá»© Tá» trÃ¬nh ngÃ y 22 Â thÃ¡ng 01 nÄƒm 2026 cá»§a PhÃ²ng CÃ´ng tÃ¡c sinh viÃªn vÃ  PhÃ²ng Káº¿ hoáº¡ch tÃ i chÃ­nh, vá» viá»‡c xin kinh phÃ­ há»— trá»£ sinh viÃªn cÃ³ hoÃ n cáº£nh khÃ³ khÄƒn, sinh viÃªn vÃ  há»c viÃªn ngÆ°á»i nÆ°á»›c ngoÃ i, nhÃ¢n dá»‹p Táº¿t NguyÃªn Ä‘Ã¡n 2026;*
+Hỗ trợ các đối tượng sau nhân dịp Tết Nguyên đán 2026:
 
-*Theo Ä‘á» nghá»‹ cá»§a TrÆ°á»Ÿng phÃ²ng CÃ´ng tÃ¡c Sinh viÃªn.*
+- Sinh viên Trường Đại học Công nghệ có hoàn cảnh khó khăn.
+- Sinh viên người nước ngoài.
 
-**HIá»†U TRÆ¯á»žNG**
+> Danh sách cụ thể được ban hành kèm theo Quyết định.
 
-**TRÆ¯á»œNG Äáº I Há»ŒC CÃ”NG NGHá»†Â QUYáº¾T Äá»ŠNH:**
+---
 
-**Äiá»u 1.** Há»— trá»£ cÃ¡c sinh viÃªn TrÆ°á»ng Äáº¡i há»c CÃ´ng nghá»‡ cÃ³ hoÃ n cáº£nh khÃ³ khÄƒn, sinh viÃªn ngÆ°á»i nÆ°á»›c ngoÃ i, Â nhÃ¢n dá»‹p Táº¿t NguyÃªn Ä‘Ã¡n 2026 (Danh sÃ¡ch **[kÃ¨m theo](https://uet-test.uet.edu.vn/wp-content/uploads/2026/01/DS-ho-tro-sv-tet-2026.pdf)**).
+### Điều 2
 
-**Äiá»u 2.**Â Má»—i sinh viÃªn Ä‘Æ°á»£c há»— trá»£ 2.000.000Ä‘ (Hai triá»‡u Ä‘á»“ng). Tá»•ng sá»‘ tiá»n há»— trá»£ cho 132 sinh viÃªn lÃ  264.000.000Ä‘ (Hai trÄƒm sÃ¡u mÆ°Æ¡i tÆ° triá»‡u Ä‘á»“ng).
+Mức hỗ trợ:
 
-Nguá»“n chi: Quá»¹ há»— trá»£ sinh viÃªn.
+- **2.000.000 đồng/sinh viên** (Hai triệu đồng).
 
-**Äiá»u 3.**Â CÃ¡c TrÆ°á»Ÿng phÃ²ngÂ HÃ nh chÃ­nh Quáº£n trá»‹ & Tá»• chá»©c cÃ¡n bá»™, CÃ´ng tÃ¡c Sinh viÃªn, Káº¿ hoáº¡ch TÃ i chÃ­nh, cÃ¡c sinh viÃªn cÃ³ tÃªn á»Ÿ Äiá»u 1 vÃ  cÃ¡c Ä‘Æ¡n vá»‹ liÃªn quan chá»‹u trÃ¡ch nhiá»‡m thi hÃ nh Quyáº¿t Ä‘á»‹nh nÃ y.
+Tổng số sinh viên được hỗ trợ:
 
-Kinh phÃ­ sáº½ Ä‘Æ°á»£c chuyá»ƒn vÃ o tÃ i khoáº£n cÃ¡ nhÃ¢n (BIDV) cá»§a sinh viÃªn.
+- **132 sinh viên**
 
-[![hÃ¬nh Ä‘áº¡i diá»‡n tÃ¡c giáº£](https://secure.gravatar.com/avatar/765ff14c5b7a452e1ee32e3f4d14833f4f69dce29b44f76b11bc3dd0930520a3?s=110&d=mm&r=g)](https://uet.vnu.edu.vn/author/tuyetnga/)
+Tổng kinh phí:
 
-[Tuyáº¿t Nga](https://uet.vnu.edu.vn/author/tuyetnga/)
+- **264.000.000 đồng** (Hai trăm sáu mươi tư triệu đồng).
 
-[BÃ i trÆ°á»›c](https://uet.vnu.edu.vn/uet-lan-toa-xuan-gan-ket-tet-yeu-thuong-toi-sinh-vien-quoc-te-va-sinh-vien-co-hoan-canh-kho-khan-2/)
+Nguồn kinh phí:
 
-##### [UET lan tá»a â€œXuÃ¢n gáº¯n káº¿t â€“ Táº¿t yÃªu thÆ°Æ¡ngâ€ tá»›i sinh viÃªn quá»‘c táº¿ vÃ  sinh viÃªn cÃ³ hoÃ n cáº£nh khÃ³ khÄƒn](https://uet.vnu.edu.vn/uet-lan-toa-xuan-gan-ket-tet-yeu-thuong-toi-sinh-vien-quoc-te-va-sinh-vien-co-hoan-canh-kho-khan-2/)
+- **Quỹ hỗ trợ sinh viên**.
 
-30/01/2026
+---
 
-[BÃ i tiáº¿p theo](https://uet.vnu.edu.vn/thoi-khoa-bieu-hoc-ky-ii-nam-hoc-2025-2026-bac-sau-dai-hoc/)
+### Điều 3
 
-##### [Thá»i khÃ³a biá»ƒu há»c ká»³ II nÄƒm há»c 2025-2026 báº­c sau Ä‘áº¡i há»c](https://uet.vnu.edu.vn/thoi-khoa-bieu-hoc-ky-ii-nam-hoc-2025-2026-bac-sau-dai-hoc/)
+Các đơn vị chịu trách nhiệm thi hành Quyết định gồm:
 
-30/01/2026
+- Phòng Hành chính Quản trị & Tổ chức cán bộ.
+- Phòng Công tác Sinh viên.
+- Phòng Kế hoạch Tài chính.
+- Các sinh viên có tên tại Điều 1.
+- Các đơn vị liên quan.
 
-### BÃ i viáº¿t liÃªn quan
+---
 
-[![GetArticleImage-1](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg)](https://uet.vnu.edu.vn/bo-luan-an-tien-si-cua-ncs-tran-vu-hop/ "Bá»™ luáº­n Ã¡n tiáº¿n sÄ© cá»§a NCS Tráº§n VÅ© Há»£p") 
+## Hình thức nhận hỗ trợ
 
-##### [Bá»™ luáº­n Ã¡n tiáº¿n sÄ© cá»§a NCS Tráº§n VÅ© Há»£p](https://uet.vnu.edu.vn/bo-luan-an-tien-si-cua-ncs-tran-vu-hop/)
+Kinh phí hỗ trợ sẽ được chuyển trực tiếp vào:
 
-30/07/2026
+- **Tài khoản BIDV cá nhân của sinh viên.**
 
-[![GetArticleImage-1](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg)](https://uet.vnu.edu.vn/danh-gia-luan-an-tien-sy-cua-ncs-truong-xuan-hung/ "ÄÃ¡nh giÃ¡ luáº­n Ã¡n Tiáº¿n sá»¹ cá»§a NCS TrÆ°Æ¡ng XuÃ¢n HÃ¹ng") 
+---
 
-##### [ÄÃ¡nh giÃ¡ luáº­n Ã¡n Tiáº¿n sá»¹ cá»§a NCS TrÆ°Æ¡ng XuÃ¢n HÃ¹ng](https://uet.vnu.edu.vn/danh-gia-luan-an-tien-sy-cua-ncs-truong-xuan-hung/)
-
-30/07/2026
-
-[![GetArticleImage-1](https://2489013871.e.cdneverest.net/uet.edu.vn/2026/04/GetArticleImage-1.jpg)](https://uet.vnu.edu.vn/chuong-trinh-thuc-tap-tai-trung-quoc-danh-cho-nghien-cuu-sinh-tien-si-do-quy-sunwah-tai-tro-nam-2027/ "ChÆ°Æ¡ng trÃ¬nh thá»±c táº­p táº¡i Trung Quá»‘c dÃ nh cho nghiÃªn cá»©u sinh tiáº¿n sÄ© do Quá»¹ Sunwah tÃ i trá»£ nÄƒm 2027") 
-
-##### [ChÆ°Æ¡ng trÃ¬nh thá»±c táº­p táº¡i Trung Quá»‘c dÃ nh cho nghiÃªn cá»©u sinh tiáº¿n sÄ© do Quá»¹ Sunwah tÃ i trá»£ nÄƒm 2027](https://uet.vnu.edu.vn/chuong-trinh-thuc-tap-tai-trung-quoc-danh-cho-nghien-cuu-sinh-tien-si-do-quy-sunwah-tai-tro-nam-2027/)
-
-28/07/2026
+**Trường Đại học Công nghệ – Đại học Quốc gia Hà Nội**
